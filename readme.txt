@@ -1,4 +1,4 @@
 this is a text
-git is free sofwar
+git is a free software
 Creating a new branch is quick and simple
 nothing
